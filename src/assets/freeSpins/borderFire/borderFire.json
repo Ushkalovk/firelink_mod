@@ -1,0 +1,306 @@
+{
+	"textures": [
+		{
+			"image": "borderFire-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 308
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Comp 1/Comp 1_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "Comp 1/Comp 1_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 120,
+						"w": 937,
+						"h": 268
+					},
+					"frame": {
+						"x": 962,
+						"y": 0,
+						"w": 937,
+						"h": 268
+					}
+				}
+			]
+		},
+		{
+			"image": "borderFire-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 308
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Comp 1/Comp 1_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 106,
+						"w": 949,
+						"h": 289
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 949,
+						"h": 289
+					}
+				},
+				{
+					"filename": "Comp 1/Comp 1_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 98,
+						"w": 956,
+						"h": 299
+					},
+					"frame": {
+						"x": 962,
+						"y": 0,
+						"w": 956,
+						"h": 299
+					}
+				}
+			]
+		},
+		{
+			"image": "borderFire-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 308
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Comp 1/Comp 1_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 96,
+						"w": 962,
+						"h": 304
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 962,
+						"h": 304
+					}
+				},
+				{
+					"filename": "Comp 1/Comp 1_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 92,
+						"w": 962,
+						"h": 308
+					},
+					"frame": {
+						"x": 962,
+						"y": 0,
+						"w": 962,
+						"h": 308
+					}
+				}
+			]
+		},
+		{
+			"image": "borderFire-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 308
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Comp 1/Comp 1_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 100,
+						"w": 950,
+						"h": 295
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 950,
+						"h": 295
+					}
+				},
+				{
+					"filename": "Comp 1/Comp 1_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 104,
+						"w": 947,
+						"h": 287
+					},
+					"frame": {
+						"x": 962,
+						"y": 0,
+						"w": 947,
+						"h": 287
+					}
+				}
+			]
+		},
+		{
+			"image": "borderFire-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 308
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Comp 1/Comp 1_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 111,
+						"w": 938,
+						"h": 276
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 938,
+						"h": 276
+					}
+				},
+				{
+					"filename": "Comp 1/Comp 1_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 110,
+						"w": 935,
+						"h": 274
+					},
+					"frame": {
+						"x": 962,
+						"y": 0,
+						"w": 935,
+						"h": 274
+					}
+				}
+			]
+		},
+		{
+			"image": "borderFire-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 962,
+				"h": 308
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Comp 1/Comp 1_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 125,
+						"w": 908,
+						"h": 249
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 908,
+						"h": 249
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ca8c3a02ff6aa5d3ec005b7b550c94d3:03d3d74e7f5e95068f036af67f3f6d93:7403a9a8e0b887e34143e83cca1eb299$"
+	}
+}

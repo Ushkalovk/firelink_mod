@@ -1,0 +1,145 @@
+{
+  "resources": [
+    "soundsprite.ogg",
+    "soundsprite.m4a",
+    "soundsprite.mp3",
+    "soundsprite.ac3"
+  ],
+  "spritemap": {
+    "bigFire": {
+      "start": 0,
+      "end": 3.5,
+      "loop": false
+    },
+    "block": {
+      "start": 5,
+      "end": 5.683696145124717,
+      "loop": false
+    },
+    "click": {
+      "start": 7,
+      "end": 7.216802721088436,
+      "loop": false
+    },
+    "closeSettings": {
+      "start": 9,
+      "end": 9.34374149659864,
+      "loop": false
+    },
+    "createFrame": {
+      "start": 11,
+      "end": 15.733219954648526,
+      "loop": false
+    },
+    "featureComplete": {
+      "start": 17,
+      "end": 24.25,
+      "loop": false
+    },
+    "fireBallPush": {
+      "start": 26,
+      "end": 27.40625850340136,
+      "loop": false
+    },
+    "fireCash": {
+      "start": 29,
+      "end": 30.374988662131518,
+      "loop": false
+    },
+    "fireDrop": {
+      "start": 32,
+      "end": 33.43780045351474,
+      "loop": false
+    },
+    "fireLaser": {
+      "start": 35,
+      "end": 36,
+      "loop": false
+    },
+    "fireShow": {
+      "start": 37,
+      "end": 38.12498866213152,
+      "loop": false
+    },
+    "fireworks": {
+      "start": 40,
+      "end": 44,
+      "loop": false
+    },
+    "freeGamesBg": {
+      "start": 45,
+      "end": 52.55469387755102,
+      "loop": false
+    },
+    "freeGamesEnd": {
+      "start": 54,
+      "end": 62.41798185941043,
+      "loop": false
+    },
+    "freeSpinsBg": {
+      "start": 64,
+      "end": 71.40625850340136,
+      "loop": false
+    },
+    "freeSpinsEnd": {
+      "start": 73,
+      "end": 82.25,
+      "loop": false
+    },
+    "lineStop": {
+      "start": 84,
+      "end": 84.36768707482993,
+      "loop": false
+    },
+    "openSettings": {
+      "start": 86,
+      "end": 86.25,
+      "loop": false
+    },
+    "pic1": {
+      "start": 88,
+      "end": 89,
+      "loop": false
+    },
+    "pic2": {
+      "start": 90,
+      "end": 91.82671201814058,
+      "loop": false
+    },
+    "pic3": {
+      "start": 93,
+      "end": 97.86192743764173,
+      "loop": false
+    },
+    "win": {
+      "start": 99,
+      "end": 101,
+      "loop": false
+    },
+    "alarm": {
+      "start": 102,
+      "end": 105.33780045351475,
+      "loop": false
+    },
+    "bell": {
+      "start": 107,
+      "end": 107.99149659863946,
+      "loop": false
+    },
+    "spinsRemaining": {
+      "start": 109,
+      "end": 110.40984126984127,
+      "loop": false
+    },
+    "wind": {
+      "start": 112,
+      "end": 113.12498866213151,
+      "loop": false
+    },
+    "wind2": {
+      "start": 115,
+      "end": 116.02285714285715,
+      "loop": false
+    }
+  }
+}

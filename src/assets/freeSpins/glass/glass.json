@@ -1,0 +1,617 @@
+{
+	"textures": [
+		{
+			"image": "glass-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04884.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04885.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04886.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04887.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04888.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04889.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04890.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04891.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04892.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04893.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04894.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04895.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04896.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04897.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04898.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04899.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04900.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04901.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		},
+		{
+			"image": "glass-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1080,
+				"h": 714
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "VID_15_04902.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 714
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bf931d49305987f4dee1f471a2b51f0f:c63c51eca24c658c2a6916f176782e05:1fd708199317a24d22cc73e00b9b1cec$"
+	}
+}

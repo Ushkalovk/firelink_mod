@@ -1,0 +1,482 @@
+{
+	"textures": [
+		{
+			"image": "sparks.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1896,
+				"h": 1060
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "SPARKS_00000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 474,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 948,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 1422,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 0,
+						"y": 212,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 474,
+						"y": 212,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 948,
+						"y": 212,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 1422,
+						"y": 212,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 0,
+						"y": 424,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 474,
+						"y": 424,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 948,
+						"y": 424,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 1422,
+						"y": 424,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 0,
+						"y": 636,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 474,
+						"y": 636,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 948,
+						"y": 636,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00018.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 1422,
+						"y": 636,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00019.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 0,
+						"y": 848,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 474,
+						"y": 848,
+						"w": 474,
+						"h": 212
+					}
+				},
+				{
+					"filename": "SPARKS_00021.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 474,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 474,
+						"h": 212
+					},
+					"frame": {
+						"x": 948,
+						"y": 848,
+						"w": 474,
+						"h": 212
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a8a291e66748bf285a7289f75c47e4ed:a741a0bed96a42c043f48c4d20b04c1f:4ef5dc8051244717a8b53bb274c71e2d$"
+	}
+}

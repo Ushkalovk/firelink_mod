@@ -1,0 +1,440 @@
+{
+	"textures": [
+		{
+			"image": "food.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2000,
+				"h": 1200
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "FAHITOS_00004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00023.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 400,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 800,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 1200,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 1600,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 0,
+						"y": 300,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 400,
+						"y": 300,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 800,
+						"y": 300,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 1200,
+						"y": 300,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 1600,
+						"y": 300,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 0,
+						"y": 600,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 400,
+						"y": 600,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 800,
+						"y": 600,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 1200,
+						"y": 600,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00018.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 1600,
+						"y": 600,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00019.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 0,
+						"y": 900,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 400,
+						"y": 900,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00021.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 800,
+						"y": 900,
+						"w": 400,
+						"h": 300
+					}
+				},
+				{
+					"filename": "FAHITOS_00022.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 300
+					},
+					"frame": {
+						"x": 1200,
+						"y": 900,
+						"w": 400,
+						"h": 300
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6eb8450c497c1450bd10de3c86c32abf:b37c3dea6bc3430d147bdaa15e33b333:dc56c85744751b4d97b97a9b9d1306ba$"
+	}
+}
